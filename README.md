@@ -1,4 +1,5 @@
 **CFile - Manipulación de Archivos en Java**
+
 CFile es una biblioteca de Java que proporciona una serie de funciones para facilitar la manipulación y gestión de archivos y directorios en aplicaciones Java. Esta biblioteca ofrece métodos simples y eficientes para leer y escribir archivos, obtener información sobre archivos y directorios, así como crear, copiar y eliminar archivos y directorios.
 
 **Características**
