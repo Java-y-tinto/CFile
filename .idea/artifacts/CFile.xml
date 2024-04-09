@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="CFile">
+    <output-path>$PROJECT_DIR$/out/artifacts/CFile</output-path>
+    <root id="archive" name="CFile.jar">
+      <element id="module-output" name="SmartFile" />
+    </root>
+  </artifact>
+</component>

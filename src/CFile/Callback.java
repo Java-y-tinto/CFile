@@ -1,4 +1,4 @@
-package com.jaime.cfile;
+package CFile;
 
 @FunctionalInterface
 public interface Callback<arg>{

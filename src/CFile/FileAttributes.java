@@ -1,4 +1,4 @@
-package com.jaime.cfile;
+package CFile;
 
 import java.io.IOException;
 import java.nio.file.*;

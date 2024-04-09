@@ -1,4 +1,4 @@
-package com.jaime.cfile;
+package CFile;
 
 import java.io.BufferedWriter;
 import java.io.IOException;
@@ -18,6 +18,8 @@ public class CFile {
         String fileContent;
         success = Files.exists(file);
         System.out.println(success);
+        System.out.println(file.toAbsolutePath().toString());
+
         if (success){
             try {
                 fileContent = Files.readString(file);
