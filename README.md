@@ -14,7 +14,7 @@ Para utilizar CFile en tu proyecto, simplemente agrega la biblioteca al classpat
 
 ```java
 Copy code
-import com.jaime.cfile.*;
+import CFile.*;
 
 public class Main {
     public static void main(String[] args) {
