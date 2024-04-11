@@ -27,3 +27,8 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+.idea/uiDesigner.xml
+src/com/jaime/cfile/Callback.java
+src/com/jaime/cfile/CFile.java
+src/com/jaime/cfile/FileAttributes.java
+.idea/uiDesigner.xml

@@ -1,4 +1,4 @@
-package CFile;
+package JFile;
 
 @FunctionalInterface
 public interface Callback<arg>{

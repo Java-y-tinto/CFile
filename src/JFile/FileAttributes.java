@@ -1,4 +1,4 @@
-package CFile;
+package JFile;
 
 import java.io.IOException;
 import java.nio.file.*;
