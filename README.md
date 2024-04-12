@@ -14,7 +14,7 @@ Para utilizar JFile en tu proyecto, simplemente agrega la biblioteca al classpat
 
 ```java
 Copy code
-import CFile.*;
+import JFile.*;
 
 public class Main {
     public static void main(String[] args) {
