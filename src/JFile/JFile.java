@@ -22,8 +22,6 @@ public class JFile {
         boolean success;
         String fileContent;
         success = Files.exists(file);
-        System.out.println(success);
-        System.out.println(file.toAbsolutePath().toString());
 
         if (success){
             try {
@@ -49,7 +47,6 @@ public class JFile {
         boolean success;
         String fileContent;
         success = Files.exists(path);
-        System.out.println(success);
         if (success){
             try {
                 fileContent = Files.readString(path);
